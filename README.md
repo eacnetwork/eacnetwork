@@ -1,10 +1,9 @@
 # Hello, I'm eacnetwork
 
-### Multi-Lingual Developer!
-
 ---
 
-> I am a passionate self-taught developer with over five years of experience crafting  software. From Minecraft plugins and Discord bots to C++ applications, I thrive on solving complex problems. My journey has been driven by real-world projects, building, testing, and constantly refining my craft.
+> I spend my time pentesting and finding bugs within api’s, I also enjoy cheat developing within games.
+> I have been working for 5 years now
 
 ---
 
