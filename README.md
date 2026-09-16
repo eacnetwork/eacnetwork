@@ -1,4 +1,4 @@
-# Hello, I'm conspiracy
+# Hello, I'm eacnetwork
 
 ### Multi-Lingual Developer!
 
@@ -15,8 +15,4 @@
 
 
 #### Frameworks & Hosting
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-## Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://conspiracycode.vercel.app/)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white
