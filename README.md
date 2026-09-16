@@ -3,7 +3,7 @@
 ---
 
 > I spend my time pentesting and finding bugs within api’s, I also enjoy cheat developing within games.
-> I have been working for 5 years now
+> I have been working for 5 years now, some other things i enjoy are making discord bots, minecraft plugins and software, decompiling malware and reversing code
 
 ---
 
